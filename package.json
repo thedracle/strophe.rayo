@@ -1,0 +1,19 @@
+{
+  "main": "strophe.rayo.js",
+  "name": "strophe.rayo",
+  "version": "0.0.1",
+  "files": [
+    "strophe.rayo.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thedracle/strophe.rayo.git"
+  },
+  "description":
+    "Strophe Rayo Plugin",
+  "maintainers": ["Jason Thomas <jthomas@hirevue.com>"],
+  "license": "MIT",
+  "dependencies": {
+    "strophe.js": "*"
+  }
+}
